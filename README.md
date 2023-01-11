@@ -2,6 +2,10 @@
 
 `https://zenn.dev/sa2knight/books/storybook-7-with-vue-3`
 
+## 環境設定
+
+`https://learn.microsoft.com/ja-jp/windows/dev-environment/javascript/nodejs-on-wsl`
+
 ## Vue 3 + TypeScript + Vite
 
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
